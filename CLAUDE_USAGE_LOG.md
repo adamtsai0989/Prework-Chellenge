@@ -4,7 +4,7 @@ A chronological record of all prompts submitted during this project creation ses
 
 ---
 
-## Project Planning
+## Project Planning(PRD was created)
 
 **1.** Initial project request
 > "Create a simple web application of "Two truth one lie" game for team building in react"
