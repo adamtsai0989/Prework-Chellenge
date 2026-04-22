@@ -119,7 +119,7 @@ preworkproject/
 
 ```bash
 git clone <repository-url>
-cd preworkproject
+cd Prework-Challenge
 ```
 
 ### 2. Install server dependencies
@@ -133,6 +133,14 @@ npm install
 
 ```bash
 cd ../client
+npm install
+```
+
+### 4. Run concurrently
+
+```bash
+After step 2 and 3, 
+cd ../Prework-Challenge
 npm install
 ```
 
@@ -161,6 +169,13 @@ npm run dev
 The client starts on `http://localhost:5173`
 
 Open `http://localhost:5173` in your browser to use the app.
+
+### If you want to run both server and client using one terminal (Installation step 4 needs to have been performed)
+
+```bash
+cd Prework-challenge
+nvm run dev
+```
 
 ---
 
